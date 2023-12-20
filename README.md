@@ -1,5 +1,5 @@
 <h1 align="center" style="font-weight: 500; line-height: 1.4;">
-  DevKit for <strong>ADE</strong>: <strong>A</strong>RMA3 <strong>D</strong>ensity <strong>E</strong>stimation in battlegrounds
+  🍹 DevKit for <strong>ADE</strong>: <strong>A</strong>RMA3 <strong>D</strong>ensity <strong>E</strong>stimation in battlegrounds
 </h1>
 
 <p align="center">
